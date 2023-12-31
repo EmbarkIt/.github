@@ -10,4 +10,4 @@ We believe in fostering a collaborative environment that encourages creativity a
 
 Join us on this journey of innovation! 🌟
 
-#### Embark your ideas on [dicussions](https://github.com/EmbarkIt/discussions/)
+#### Embark your ideas on [dicussions](https://github.com/orgs/embarkit/discussions)
